@@ -1,5 +1,8 @@
 import { useEffect, useState } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
+import {
+  BrowserRouter as Router
+} from "react-router-dom";
 
 
 export const NavBar = () => {
