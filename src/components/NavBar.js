@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { BrowserRouter } from "react-router-dom";
+import { HashLink } from 'react-router-hash-link';
 
 
 export const NavBar = () => {
@@ -50,6 +51,9 @@ export const NavBar = () => {
           
         </Navbar.Collapse>
       </Container>
+      <HashLink to='#connect'>
+                <button className="vvd"><span>Let’s Connect</span></button>
+              </HashLink>
       <BrowserRouter>
       hey
     </BrowserRouter>
