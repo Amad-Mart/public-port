@@ -50,6 +50,10 @@ export const NavBar = () => {
           
         </Navbar.Collapse>
       </Container>
+      <BrowserRouter>
+      hey
+    </BrowserRouter>
     </Navbar>
+    
   );
 };
