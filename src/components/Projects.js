@@ -18,7 +18,7 @@ export const Projects = () => {
     },
     {
       title: "McKesson Homepage",
-      description: "HTML, CSS, JS, PHP, and Wordpress",
+      description: "HTML, CSS, JS, Angular 13, PHP, and Wordpress",
       imgUrl: MckesssonHome,
       linkTo: "https://www.mckesson.com/",
     },
