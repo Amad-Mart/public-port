@@ -22,12 +22,12 @@ export const Projects = () => {
       imgUrl: MckesssonHome,
       linkTo: "https://www.mckesson.com/",
     },
-    {
-      title: "Business Startup",
-      //description: "Design & Development",
-      imgUrl: projImg3,
-      linkTo: "https://www.riversidemfg.com/",
-    },
+    // {
+    //   title: "Business Startup",
+    //   //description: "Design & Development",
+    //   imgUrl: projImg3,
+    //   linkTo: "https://www.riversidemfg.com/",
+    // },
     // ... other projects
   ];
 
