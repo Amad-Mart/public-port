@@ -616,3 +616,49 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.5px;
   margin-top: 20px;
 }
+.projectIMG-container {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.projectIMG {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/*@media screen and (min-width:350px ) and (max-width: 500px) {
+  .projectIMG {
+    min-height: 17.1rem;
+  }
+}
+@media screen and (min-width:501px ) and (max-width: 565px) {
+  .projectIMG {
+    min-height: 17.1rem;
+    max-height: 20rem;
+    max-width: 34rem;
+  }
+}
+@media screen and (min-width:566px ) and (max-width: 865px) {
+  .projectIMG {
+    height: 22rem;
+    min-width: 30rem;
+    max-width: 34rem;
+  }
+}
+@media screen and (min-width:866px ) and (max-width: 1025px) {
+  .projectIMG {
+    min-height: 20rem;
+    max-height: 21rem;
+    min-width: 25rem;
+    max-width: 34rem;
+  }
+}*/
+.ProjectCardTitle{
+  
+  color: lightgray;
+}
+.ProjectCardDescription{
+  color: rgb(49, 45, 45);
+}
